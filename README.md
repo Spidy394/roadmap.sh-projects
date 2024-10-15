@@ -11,8 +11,8 @@ The goal of this repository is to provide practical implementations and solution
 Currently, roadmap.sh offers project ideas in two main categories:
 
 1. Frontend Projects
+    - [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 2. Backend Projects
-
 
 ## How to Use This Repository
 
